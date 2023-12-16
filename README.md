@@ -23,7 +23,7 @@
  <div align="center">
      <a>
     <img src="https://skillicons.dev/icons?i=discord" />
-         <a/>
+    <a/>
     <img src="https://skillicons.dev/icons?i=discord,github,twitter,linkedin,instagram" />
 </div>
  
