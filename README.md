@@ -21,7 +21,9 @@
  
  </div>
  <div align="center">
+     <a>
     <img src="https://skillicons.dev/icons?i=discord" />
+         <a/>
     <img src="https://skillicons.dev/icons?i=discord,github,twitter,linkedin,instagram" />
 </div>
  
