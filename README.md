@@ -24,13 +24,13 @@
      <a href="https://discordapp.com/users/905934244491165707">
         <img src="https://skillicons.dev/icons?i=discord" />
     <a/>
-    <a>
+    <a href="#">
         <img src="https://skillicons.dev/icons?i=twitter" />
     <a/>
-    <a>
+    <a href="https://www.linkedin.com/in/hamed-babaei-166373231">
         <img src="https://skillicons.dev/icons?i=linkedin" />
     <a/>
-    <a>
+    <a href="https://www.instagram.com/l.hamed_b.l">
         <img src="https://skillicons.dev/icons?i=instagram" />
     <a/>
    
