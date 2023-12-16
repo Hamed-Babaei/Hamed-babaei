@@ -22,9 +22,18 @@
  </div>
  <div align="center">
      <a>
-    <img src="https://skillicons.dev/icons?i=discord" />
+        <img src="https://skillicons.dev/icons?i=discord" />
     <a/>
-    <img src="https://skillicons.dev/icons?i=discord,github,twitter,linkedin,instagram" />
+    <a>
+        <img src="https://skillicons.dev/icons?i=twitter" />
+    <a/>
+    <a>
+        <img src="https://skillicons.dev/icons?i=linkedin" />
+    <a/>
+    <a>
+        <img src="https://skillicons.dev/icons?i=instagram" />
+    <a/>
+   
 </div>
  
  
