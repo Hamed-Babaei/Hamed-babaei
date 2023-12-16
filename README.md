@@ -21,7 +21,7 @@
  
  </div>
  <div align="center">
-     <a>
+     <a href="https://discordapp.com/users/905934244491165707">
         <img src="https://skillicons.dev/icons?i=discord" />
     <a/>
     <a>
